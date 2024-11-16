@@ -23,5 +23,4 @@ os, and time.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Web Site Name](https://www.geeksforgeeks.org/python-playing-audio-file-in-pygame/)
